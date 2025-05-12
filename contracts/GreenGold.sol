@@ -12,7 +12,8 @@ contract GreenGold is ERC721, Ownable {
         ODUM,
         SAPELE,
         TEAK,
-        ACACIA
+        ACACIA,
+        WAWA
     }
 
     struct Tree{
